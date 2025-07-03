@@ -1,7 +1,7 @@
 **TransLingua: AI-Powered Multi-Language Translator**
 
 **Project Overview:**
-**TransLingua** is an AI-powered, multi-language translator designed to help users translate text, speech, and speech in real-time across multiple Indian and global languages. Built using AI and NLP technologies, it empowers students, travelers, and professionals by providing accessible, context-aware translations with speech and text support.
+**TransLingua** is an AI-powered, multi-language translator designed to help users translate text and speech in real-time across multiple Indian and global languages. Built using AI and NLP technologies, it empowers students, travelers, and professionals by providing accessible, context-aware translations with speech and text support.
 
 **Features:**
 ✅ Translate text, speech in real-time  
